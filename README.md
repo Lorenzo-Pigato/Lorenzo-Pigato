@@ -2,9 +2,9 @@ Hi, I’m @Lorenzo-Pigato
 
 ## About Me
 {
-  * I am a third-year student majoring in Computer Engineering at the Politecnico di Milano. 
-  * I am a software development and cybersecurity enthusiast
-  * I graduated in Electronics and Industrial Automation.
+  * Third-year student majoring in Computer Engineering at the Politecnico di Milano. 
+  * Software development and cybersecurity enthusiast
+  * Graduated in Electronics and Industrial Automation.
       
 }
 
